@@ -32,6 +32,8 @@ export default class App extends React.Component {
           }}
         />
 
+        <Text>Hi</Text>
+
         <Image
           style={styles.imageIcon}
           source={{
